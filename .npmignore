@@ -25,3 +25,13 @@ Desktop.ini
 # Library files
 src/*
 build/*
+
+# put only files like npm package did
+gulpfile.js
+LICENSE
+package-lock.json
+tslint.json
+tsconfig.json
+.editorconfig
+.gitattributes
+tools/
