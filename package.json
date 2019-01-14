@@ -33,6 +33,10 @@
     "bugs": {
         "url": "https://www.github.com/wittlock/ngx-image-zoom/issues"
     },
+    "main": "dist/ngx-image-zoom.umd.js",
+    "module": "dist/ngx-image-zoom.js",
+    "jsnext:main": "dist/ngx-image-zoom.js",
+    "typings": "dist/ngx-image-zoom.d.ts",
     "devDependencies": {
         "@angular/common": "^5.0.0",
         "@angular/compiler": "^5.0.0",
